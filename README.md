@@ -35,6 +35,8 @@ Play the deployed game here:
 - **Left Arrow / A** — Move the spaceship left
 - **Right Arrow / D** — Move the spaceship right
 - **Space Bar** — Fire projectiles
+- **Pause** - P
+- **Toggle Fullscreen** - F
 
 ## Features
 
